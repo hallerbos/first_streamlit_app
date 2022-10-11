@@ -1,6 +1,7 @@
 import streamlit
 
-streamlit.title('This is really interesting')
-streamlit.header('The font should be smaller')
-streamlit.text('And this is how the normal text should look like')
-
+streamlit.title('My Mom's healthy dinner')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
